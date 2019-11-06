@@ -1,0 +1,11 @@
+name = "BigMacro"
+uuid = "839f1b1b-eafa-4394-a1a1-3d47d8821c5e"
+authors = ["Nicholas Coltharp <ncolthar@trinity.edu>"]
+version = "0.1.2"
+
+[deps]
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+
+[compat]
+julia = "^1.2"
+MacroTools = "^0.5.1"
